@@ -1,3 +1,6 @@
-# miniature-website
-
-This website was particularly designed for a specific resolution i.e "1366x768" with chrome browser support within a span of 127 hr.
+# Computer-Department-Static-Website
+- This is a computer department static website made for the college during the Project based learning (PBL) competition held in the second year.
+- Tools used:
+  1. HTML5
+  2. CSS3
+  3. Javascript
